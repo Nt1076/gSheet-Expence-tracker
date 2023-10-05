@@ -1,6 +1,6 @@
-# expence_tracker
+# Expence tracker
 
-A new Flutter project.
+💶💶💶A flutter project uses google sheets to track saving by ussing expences anf income.
 
 ## Getting Started
 
