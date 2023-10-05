@@ -2,15 +2,7 @@
 
 💶💶💶A flutter project uses google sheets to track saving by ussing expences anf income.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+![Add a subheading (1)](https://github.com/Nt1076/gSheet-Expence-tracker/assets/96333085/1e6767a6-3c78-4d6b-bbeb-5aa163439268)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
